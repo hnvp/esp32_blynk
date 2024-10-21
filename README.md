@@ -1,5 +1,6 @@
 # esp32_blynk
 Yêu cầu thiết kế
+
 • Hệ thống tưới nước cho cây sử dụng trình giả lập điện tử trực tuyến Wokwi, phần cứng ESP32, kết hợp
 Blynk 2.0
 • Tạo một giao diện thực hiện thu thập dữ liệu nhiệt độ TEMPERATURE, độ ẩm không khí HUMIDITY
